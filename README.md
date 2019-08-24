@@ -39,7 +39,18 @@ The picture below shows the targeted users of our app.
 
 
 
+
+
+
+
+
+
 ### Technologies utilized 
+
+
+
+![WhatsApp Image 2019-04-07 at 10 12 30 PM](https://user-images.githubusercontent.com/53584591/63643456-30c60f00-c6d9-11e9-8c47-594284aabea6.jpeg)
+
 
 
 
