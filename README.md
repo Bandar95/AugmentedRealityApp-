@@ -26,8 +26,16 @@ Before we go any further this picture will demonstrate to you what are the limit
 
 
 
+
+
+
 ### Targeted Users 
 
-the picture below shows the targeted users of our app.
+The picture below shows the targeted users of our app.
+
+
+
+![WhatsApp Image 2019-04-07 at 10 12 26 PM](https://user-images.githubusercontent.com/53584591/63643437-c614d380-c6d8-11e9-923a-e41e1dc7e0f3.jpeg)
+
 
 
