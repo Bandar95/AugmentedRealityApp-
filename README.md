@@ -39,3 +39,8 @@ The picture below shows the targeted users of our app.
 
 
 
+### Technologies utilized 
+
+
+
+
