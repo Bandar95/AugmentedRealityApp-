@@ -3,7 +3,10 @@
 
 
 
-## overview
+
+
+
+### overview
 
 My Senior project Title is " Augmented Reality Based Measurement, Objects Placement and Retrieval with Gesture Recognition"
 I have just uploaded the Final report, everyone can see it and be free to ask or download it.
@@ -12,6 +15,13 @@ in addition, I will attach the code as well as illustrate the ideas behind our p
 
 
 
+
+### limitations and Goals 
+
+hopefully this picture demonstrates what are the limitations and what are our solutions.
+
+
+<img width="478" alt="Problems   Objectives" src="https://user-images.githubusercontent.com/53584591/63643371-90231f80-c6d7-11e9-8b49-55b3d9ff695d.png">
 
 
 
