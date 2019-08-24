@@ -6,7 +6,7 @@
 
 
 
-### overview
+### Overview
 
 My Senior project Title is " Augmented Reality Based Measurement, Objects Placement and Retrieval with Gesture Recognition"
 I have just uploaded the Final report, everyone can see it and be free to ask or download it.
