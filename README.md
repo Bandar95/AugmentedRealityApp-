@@ -1,18 +1,16 @@
 # MySeniorProject
 
 
-
-
-
-
-
-### Overview
-
 My Senior project Title is " Augmented Reality Based Measurement, Objects Placement and Retrieval with Gesture Recognition"
 I have just uploaded the Final report, everyone can see it and be free to ask or download it.
 
 in addition, I will attach the code as well as illustrate the ideas behind our project and what we did so far, what we wanted to achieve, and all dimensions related to our project.
 
+
+### Overview
+
+
+it's an application that targets two kind of users, Normal users which include different types such as engineer, and the other type are blind people. The app uses Augmented reality as well as Gesture Recognition technology in order to enable the user to calculate distances between objects as well as dropping information in form of 3d objects on the x y z axis.
 
 
 
