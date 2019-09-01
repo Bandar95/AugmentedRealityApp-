@@ -34,7 +34,7 @@ The picture below shows the targeted users of our app.
 
 
 
-![WhatsApp Image 2019-04-07 at 10 12 26 PM](https://user-images.githubusercontent.com/53584591/64070905-42c62580-cc76-11e9-83d0-9b8a742c7f3a.png)
+<img width="450" alt = "![WhatsApp Image 2019-04-07 at 10 12 26 PM" src="https://user-images.githubusercontent.com/53584591/64070905-42c62580-cc76-11e9-83d0-9b8a742c7f3a.png">
 
 
 
