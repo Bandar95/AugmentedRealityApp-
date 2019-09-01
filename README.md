@@ -10,6 +10,7 @@ in addition, I will attach the code as well as illustrate the ideas behind our p
 ### Overview
 
 
+
 it's an application that targets two kind of users, Normal users which include different types such as engineer, and the other type are blind people. The app uses Augmented reality as well as Gesture Recognition technology in order to enable the user to calculate distances between objects as well as dropping information in form of 3d objects on the x y z axis.
 
 
@@ -34,7 +35,8 @@ The picture below shows the targeted users of our app.
 
 
 
-![WhatsApp Image 2019-04-07 at 10 12 26 PM](https://user-images.githubusercontent.com/53584591/64070905-42c62580-cc76-11e9-83d0-9b8a742c7f3a.png)
+<img width="450" alt = "![WhatsApp Image 2019-04-07 at 10 12 26 PM" src="https://user-images.githubusercontent.com/53584591/64070905-42c62580-cc76-11e9-83d0-9b8a742c7f3a.png">
+
 
 
 
