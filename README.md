@@ -31,9 +31,9 @@ Before we go any further this picture will demonstrate to you what are the limit
 The picture below shows the targeted users of our app.
 
 
-
+<p align="center">
 <img width="500" alt = "![WhatsApp Image 2019-04-07 at 10 12 26 PM" src="https://user-images.githubusercontent.com/53584591/64070905-42c62580-cc76-11e9-83d0-9b8a742c7f3a.png">
-
+<p/>
 
 
 
@@ -48,9 +48,9 @@ The picture below shows the targeted users of our app.
 
 The picture below demonstrates which technologies we have used.
 
-
+<p align="center">
 <img width="500" alt = "![WhatsApp Image 2019-04-07 at 10 12 30 PM]" src = "https://user-images.githubusercontent.com/53584591/63643456-30c60f00-c6d9-11e9-8c47-594284aabea6.jpeg"> 
-
+<p/>
 
 
 
