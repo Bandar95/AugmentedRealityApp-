@@ -48,10 +48,10 @@ The picture below shows the targeted users of our app.
 
 ### Technologies utilized 
 
-The pictures below demonstrate which technologies we have used.
+The picture below demonstrates which technologies we have used.
 
 
-![WhatsApp Image 2019-04-07 at 10 12 30 PM](https://user-images.githubusercontent.com/53584591/63643456-30c60f00-c6d9-11e9-8c47-594284aabea6.jpeg)
+<img width="500" alt = "![WhatsApp Image 2019-04-07 at 10 12 30 PM]" src = "https://user-images.githubusercontent.com/53584591/63643456-30c60f00-c6d9-11e9-8c47-594284aabea6.jpeg"> 
 
 
 
